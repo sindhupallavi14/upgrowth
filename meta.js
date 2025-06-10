@@ -35,5 +35,31 @@ meta: {
     description: "Learn how CompareKaro safeguards your personal data and ensures privacy. Read our detailed privacy policy to understand how we protect your information.",
   },
 },
+meta: {
+  title: "Terms and Conditions",
+  description: "Review the terms and conditions for using CompareKaro's services. Understand your rights and obligations while using our price comparison platform.",
+  keywords: "CompareKaro terms, usage policy, user rights, obligations, service conditions, terms of use",
+  structuredData: {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    name: "CompareKaro Terms and Conditions",
+    url: "https://comparekaro.app/terms-condition",
+    description: "Review the terms and conditions for using CompareKaro's services. Understand your rights and obligations while using our price comparison platform."
+  }
+},
+meta: {
+  title: "Contact CompareKaro",
+  description: "Need help or have questions? Contact the CompareKaro team for support, inquiries, or feedback. We're here to assist you with all your comparison needs.",
+  keywords: "CompareKaro contact, customer support, product comparison help, user queries, feedback form",
+  structuredData: {
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    name: "Get in Touch with Us",
+    url: "https://comparekaro.app/contact",
+    description: "Need help or have questions? Contact the CompareKaro team for support, inquiries, or feedback. We're here to assist you with all your comparison needs."
+  }
+},
+
+
 
 }
